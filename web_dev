@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>My Simple Site</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 2rem;
+      text-align: center;
+    }
+  </style>
+  <!-- Tidio Chatbot Embed -->
+  <script src="//code.tidio.co/z771jreqagsfkoudwpunby3e1vfgqnrh.js" async></script>
+</head>
+<body>
+  <h1>Welcome to My Website</h1>
+  <p>This is a simple page with a chatbot embedded.</p>
+</body>
+</html>
